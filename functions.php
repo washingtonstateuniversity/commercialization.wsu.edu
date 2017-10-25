@@ -12,7 +12,7 @@ add_filter( 'nav_menu_css_class', 'commercialization_menu_classes', 11, 3 );
  * @return string
  */
 function commercialization_theme_version() {
-	return '0.0.1';
+	return '0.0.2';
 }
 
 /**
